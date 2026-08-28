@@ -40,7 +40,7 @@ I created this project as part of my Introduction to Python coursework. I wanted
 4. Run the Python file:
 
 ```bash
-python commute_calculator.py
+python commute_estimator.py
 ```
 
 5. Enter your commute information when prompted.
